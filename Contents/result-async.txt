@@ -1,0 +1,7 @@
+
+The text from the first.txt and second.txt 
+
+FIRST:
+	Hello this is the first txt file
+SECOND:
+	Hello this is the second txt file
